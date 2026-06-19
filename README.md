@@ -41,11 +41,11 @@
 
 ---
 
-## 🚀 Latest Contributions
+## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AlooDaParatha">
-    <img src="https://github-contributor-stats.vercel.app/api?username=AlooDaParatha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+  <a href="https://github.com/AlooDaParatha/CropLynk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight" />
   </a>
 </p>
 
