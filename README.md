@@ -22,11 +22,11 @@
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,firebase,github,vercel,vscode,unity,unreal,arduino&perline=6&theme=dark" />
-  </a>
-</p>
+<div style="text-align: center;">
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,firebase,github,vercel,vscode,unity,unreal,arduino&perline=6&theme=dark" />
+
+</div>
 
 ---
 
