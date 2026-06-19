@@ -31,22 +31,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AlooDaParatha&theme=default&hide_border=true#gh-light-mode-only"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AlooDaParatha&theme=github-dark-blue&hide_border=true#gh-dark-mode-only"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=default&hide_border=true#gh-light-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/AlooDaParatha/CropLynk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=default&hide_border=true#gh-light-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=github_dark&hide_border=true#gh-dark-mode-only"/>
 </p>
 
 ---
@@ -54,17 +59,8 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🎵 Currently Vibing To
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=github-light&hide_border=true#gh-light-mode-only"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=github-dark&hide_border=true#gh-dark-mode-only"/>
 </p>
 
 ---
@@ -72,7 +68,14 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake"
+      src="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -81,19 +84,19 @@
 
 <p align="center">
 <a href="https://github.com/AlooDaParatha">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9F"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:anshyadav.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5555"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://open.spotify.com/user/31nrzo3duha4r6e25aiyvmlt3nba">
-<img src="https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
 <a href="https://x.com">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
 </a>
 </p>
 
