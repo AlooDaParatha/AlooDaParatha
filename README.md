@@ -22,7 +22,7 @@
 
 ## ⚡ Tech Stack
 
-<p style="text-align: center;">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css,firebase&perline=6&theme=dark" />
 <img src="https://skillicons.dev/icons?i=github,vercel,vscode,unity,unreal,arduino&perline=6&theme=dark" />
