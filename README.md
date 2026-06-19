@@ -28,34 +28,31 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=default&hide_border=true">
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true"&align="center">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=default&hide_border=true">
+    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
 
-<br><br>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=tokyonight&hide_border=true"&align="center">
-</picture>
-
-<br><br>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=tokyonight&hide_border=true"&align="center">
-</picture>
-
-</p>>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=default&hide_border=true">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
 
 ---
 
