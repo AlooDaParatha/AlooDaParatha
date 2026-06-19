@@ -124,15 +124,10 @@
   <a href="https://www.linkedin.com/in/ansh-yadav-5961b9359/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://www.instagram.com/unemployed.ansh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" title="Instagram — @unemployed.ansh" /></a>
   <a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" title="Discord — nyxinfernos" /></a>
+  <a href="https://open.spotify.com/user/31nrzo3duha4r6e25aiyvmlt3nba" target="_blank"><img src="https://skillicons.dev/icons?i=spotify&theme=dark"/></a>
 </p>
 
 <p align="center"><sub>💬 Discord doesn't support username-based profile links — add me at <strong>nyxinfernos</strong></sub></p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31nrzo3duha4r6e25aiyvmlt3nba" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
