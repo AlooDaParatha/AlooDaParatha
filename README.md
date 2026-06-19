@@ -82,8 +82,6 @@
   </a>
 </p>
 
-<p align="center"><sub>🖱️ Click the card to open the repo</sub></p>
-
 ---
 
 ## 📈 Activity Graph
@@ -129,7 +127,7 @@
   <a href="https://open.spotify.com/user/31nrzo3duha4r6e25aiyvmlt3nba" target="_blank"><img src="https://skillicons.dev/icons?i=spotify&theme=dark"/></a>
 </p>
 
-<p align="center"><sub>💬 Discord doesn't support username-based profile links — add me at <strong>nyxinfernos</strong></sub></p>
+<p align="center"><sub>💬 Discord doesn't support username-based profile links — add me <strong>@nyxinfernos</strong></sub></p>
 
 ---
 
