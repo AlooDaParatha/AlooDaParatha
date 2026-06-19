@@ -58,7 +58,7 @@
 
 ## 🚀 Featured Project
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=default&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
