@@ -22,8 +22,6 @@
 
 ## ⚡ Tech Stack
 
-## ⚡ Tech Stack
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
