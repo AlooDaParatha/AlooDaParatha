@@ -1,4 +1,4 @@
-👋 Hey, I'm Ansh Yadav
+# 👋 Hey, I'm Ansh Yadav
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Open+Source+Explorer;Building+Cool+Things+🚀;Always+Learning+New+Tech" />
