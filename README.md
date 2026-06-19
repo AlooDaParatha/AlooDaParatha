@@ -60,7 +60,9 @@
 # 🎵 Currently Vibing To
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=1db954&bar_color_cover=true"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light">
+  </a>
 </p>
 
 ---
