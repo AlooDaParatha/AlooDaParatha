@@ -26,13 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode&theme=dark"/>
 </p>
 
-<p align="center">
-  <img height="48" src="https://cdn.simpleicons.org/anthropic"/>
-  <img height="48" src="https://cdn.simpleicons.org/google"/>
-  <img height="48" src="https://cdn.simpleicons.org/canva"/>
-  <img height="48" src="https://cdn.simpleicons.org/openai"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
