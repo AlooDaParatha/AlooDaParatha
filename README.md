@@ -41,10 +41,12 @@
 
 ---
 
-## 📈 Contribution Stats
+## 🚀 Latest Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AlooDaParatha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <a href="https://github.com/AlooDaParatha">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AlooDaParatha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+  </a>
 </p>
 
 ---
