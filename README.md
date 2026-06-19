@@ -41,10 +41,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlooDaParatha&theme=algolia&no-frame=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AlooDaParatha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
