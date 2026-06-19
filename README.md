@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ansh Yadav
+0# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ansh Yadav
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Open+Source+Explorer;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+New+Tech" />
 
@@ -66,7 +66,7 @@ motto: "Code • Learn • Build • Repeat"
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true">
+<img src="https://open.spotify.com/user/31nrzo3duha4r6e25aiyvmlt3nba?si=VxO5CDx4S22iFP-BqaHLbA&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true">
 
 </div>
 
