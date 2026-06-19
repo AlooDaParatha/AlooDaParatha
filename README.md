@@ -30,53 +30,55 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true">
+</picture>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AlooDaParatha&theme=default&hide_border=true#gh-light-mode-only"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AlooDaParatha&theme=github-dark-blue&hide_border=true#gh-dark-mode-only"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlooDaParatha&theme=tokyonight&hide_border=true">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=default&hide_border=true#gh-light-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlooDaParatha&layout=compact&theme=tokyonight&hide_border=true">
+</picture>
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=default&hide_border=true#gh-light-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=github_dark&hide_border=true#gh-dark-mode-only"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
+</picture>
 
 ---
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=github-light&hide_border=true#gh-light-mode-only"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=github-dark&hide_border=true#gh-dark-mode-only"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=tokyo-night&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=github-light&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=tokyo-night&hide_border=true">
+</picture>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake"
-      src="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
