@@ -36,8 +36,6 @@
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino" /></a>
 </p>
 
-<p align="center"><sub>🖱️ Every icon links to the official site — click to explore</sub></p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -122,7 +120,7 @@
 
 <p align="center">
   <a href="https://github.com/AlooDaParatha" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" /></a>
-  <a href="mailto:anshyadav.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" title="Email me" /></a>
+  <a href="mailto:anshyadav15jan2010@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" title="Email me" /></a>
   <a href="https://www.linkedin.com/in/ansh-yadav-5961b9359/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://www.instagram.com/unemployed.ansh/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" title="Instagram — @unemployed.ansh" /></a>
   <a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" title="Discord — nyxinfernos" /></a>
