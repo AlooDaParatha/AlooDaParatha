@@ -23,13 +23,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode,ae,ps,pr&theme=dark">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode,ae,ps,pr&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode,ae,ps,pr&theme=dark" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode,ae,ps,pr&theme=dark" />
 </p>
 
 ---
