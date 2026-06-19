@@ -1,34 +1,34 @@
 # 👋 Hey, I'm Ansh Yadav
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Open+Source+Explorer;Building+Cool+Things+🚀;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Open+Source+Explorer;Building+Cool+Things+🚀;Always+Learning+New+Tech"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlooDaParatha&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=AlooDaParatha&label=PROFILE+VIEWS&color=00FF9F&style=for-the-badge"/>
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 - 🌱 Currently learning Web Development and Firebase
 - 💻 Passionate about Python and JavaScript
 - 🚀 Interested in Open Source, AI and Cybersecurity
 - 🎯 Goal: Become a Software Engineer
-- ⚡ Fun fact: I turn coffee ☕ into code
+- ⚡ Fun Fact: I turn coffee ☕ into code
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlooDaParatha&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -41,56 +41,64 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlooDaParatha&theme=algolia&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlooDaParatha&theme=algolia&no-frame=true"/>
 </p>
 
 ---
 
-## 🎵 Currently Vibing To
+# 📈 Activity Graph
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-> Enable this with GitHub Actions.
+# 🎵 Currently Vibing To
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=1db954&bar_color_cover=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlooDaParatha/AlooDaParatha/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/AlooDaParatha">
-<img src="https://img.shields.io/badge/GitHub-00FFB2?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9F"/>
 </a>
 
 <a href="mailto:anshyadav.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00FFB2?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5555"/>
 </a>
 
 <a href="https://open.spotify.com/user/31nrzo3duha4r6e25aiyvmlt3nba">
-<img src="https://img.shields.io/badge/Spotify-00FFB2?style=for-the-badge&logo=spotify&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+</a>
+
+<a href="https://x.com">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
 </a>
 </p>
 
 ---
 
-## 🚀 Quote
+# 🚀 Quote
 
 > **Code • Learn • Build • Repeat**
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ffff&height=150&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
 </p>
