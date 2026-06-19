@@ -49,10 +49,10 @@
 
 ---
 
-# 🎵 Spotify
+## 🎵 Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=1DB954&bar_color_cover=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrzo3duha4r6e25aiyvmlt3nba&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
 </p>
 
 ---
@@ -97,13 +97,11 @@ Firebase    ██████████░░░░░░░░░ 50%
 
 ---
 
-🚀 Quote
+## 🚀 Quote
 
-«"Code • Learn • Build • Repeat"»
-
----
+> **Code • Learn • Build • Repeat**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ffff&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ffff&height=150&section=footer"/>
 </p>
 ```
