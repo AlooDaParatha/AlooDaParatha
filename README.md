@@ -27,9 +27,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-black?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/AntiGravity-black?style=for-the-badge"/>
+  <img height="48" src="https://cdn.simpleicons.org/anthropic"/>
+  <img height="48" src="https://cdn.simpleicons.org/google"/>
+  <img height="48" src="https://cdn.simpleicons.org/canva"/>
+  <img height="48" src="https://cdn.simpleicons.org/openai"/>
 </p>
 
 ---
