@@ -26,6 +26,12 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode&theme=dark"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-black?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/AntiGravity-black?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
