@@ -56,16 +56,22 @@
 
 ---
 
-## 🚀 Featured Project
+## ⚡ Tech Stack
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
+      srcset="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode&theme=dark">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=default&hide_border=true">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
+      srcset="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode&theme=dark" />
   </picture>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Anti--Gravity-7C3AED?style=for-the-badge">
 </p>
 
 ---
