@@ -34,6 +34,8 @@
   <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" title="Unity" /></a>
   <a href="https://www.unrealengine.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" alt="Unreal Engine" title="Unreal Engine" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" title="Windows" /></a>
 </p>
 
 ---
