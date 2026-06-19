@@ -22,8 +22,25 @@
 
 ## ⚡ Tech Stack
 
+## ⚡ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,github,vercel,vscode,ae,ps,pr&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=py,js,html,css,firebase,github,vercel,vscode,unity,unreal,arduino&perline=6&theme=dark">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://skillicons.dev/icons?i=py,js,html,css,firebase,github,vercel,vscode,unity,unreal,arduino&perline=6&theme=light">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,firebase,github,vercel,vscode,unity,unreal,arduino&perline=6&theme=dark" />
+  </picture>
+</p>
+
+<p align="center">
+  <img height="48" src="https://cdn.simpleicons.org/adobeaftereffects/9999FF">
+  <img height="48" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF">
+  <img height="48" src="https://cdn.simpleicons.org/adobepremierepro/9999FF">
+  <img height="48" src="https://cdn.simpleicons.org/canva/00C4CC">
+  <img height="48" src="https://cdn.simpleicons.org/anthropic/D97757">
+  <img height="48" src="https://cdn.simpleicons.org/google/4285F4">
 </p>
 
 ---
