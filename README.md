@@ -86,11 +86,13 @@
 
 ## 📈 Activity Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=tokyo-night&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=github-light&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlooDaParatha&theme=tokyo-night&hide_border=true">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output/activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./output/activity-light.svg">
+    <img alt="GitHub Contribution Graph" src="./output/activity.svg">
+  </picture>
+</p>
 
 ---
 
