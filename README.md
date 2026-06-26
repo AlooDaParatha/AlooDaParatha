@@ -80,6 +80,15 @@
       <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
     </picture>
   </a>
+  <a href="https://github.com/AlooDaParatha/ActivityGraph" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=default&hide_border=true">
+      <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
+    </picture>
+  </a>
 </p>
 
 ---
