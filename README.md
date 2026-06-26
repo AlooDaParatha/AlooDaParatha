@@ -88,7 +88,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-dark.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-dark.svg??v=2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-light.svg?v=2">
     <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity.svg?v=2">
   </picture>
