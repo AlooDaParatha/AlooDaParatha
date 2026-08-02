@@ -90,6 +90,13 @@
     </picture>
   </a>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects-light.svg?v=1">
+    <img alt="Project Showcase" src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects.svg?v=1">
+  </picture>
+</p>
 
 ---
 
