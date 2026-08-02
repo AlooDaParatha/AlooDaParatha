@@ -71,26 +71,6 @@
 ## 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/AlooDaParatha/CropLynk" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=default&hide_border=true">
-      <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=CropLynk&theme=tokyonight&hide_border=true">
-    </picture>
-  </a>
-  <a href="https://github.com/AlooDaParatha/Github-Activities" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=Github-Activities&theme=tokyonight&hide_border=true">
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=Github-Activities&theme=default&hide_border=true">
-      <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=AlooDaParatha&repo=Github-Activities&theme=tokyonight&hide_border=true">
-    </picture>
-  </a>
-</p>
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects-dark.svg?v=1">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects-light.svg?v=1">
