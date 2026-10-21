@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Enthusiast;Open+Source+Explorer;Building+Cool+Things+🚀;Always+Learning+New+Tech"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlooDaParatha&label=PROFILE+VIEWS&color=00FF9F&style=for-the-badge"/>
-</p>
-
 ---
 
 ## 💫 About Me
